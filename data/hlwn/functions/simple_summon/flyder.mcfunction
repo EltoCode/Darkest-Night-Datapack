@@ -1,0 +1,5 @@
+#DESC: Summons Flyder
+#
+#
+
+summon bat ~ ~1 ~ {Team:"hlwn_dark_team",Health:16f,Tags:["isDark"],Passengers:[{id:"minecraft:cave_spider",CustomNameVisible:1b,Team:"hlwn_dark_team",Tags:["isDark"],Passengers:[{id:"minecraft:cave_spider",Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Flyder","color":"dark_red","italic":true}',Attributes:[{Name:generic.movement_speed,Base:0.7}]},{id:"minecraft:cave_spider",Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Flyder","color":"dark_red","italic":true}',Attributes:[{Name:generic.movement_speed,Base:0.7}]},{id:"minecraft:cave_spider",Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Flyder","color":"dark_red","italic":true}',Attributes:[{Name:generic.movement_speed,Base:0.7}]},{id:"minecraft:cave_spider",Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Flyder","italic":true}',Attributes:[{Name:generic.movement_speed,Base:0.7}]}],CustomName:'{"text":"Flyder","color":"dark_red","italic":true}',Attributes:[{Name:generic.movement_speed,Base:0.7}]}],Attributes:[{Name:generic.max_health,Base:16}]}

@@ -1,0 +1,5 @@
+#DESC: Summons Elite Spectre
+#
+#
+
+summon illusioner ~ ~ ~ {CustomNameVisible:1b,Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Dark Lord\'s Elite Archer","color":"dark_red","bold":true}',HandItems:[{id:"minecraft:bow",Count:1b,tag:{Enchantments:[{id:"minecraft:power",lvl:5s},{id:"minecraft:punch",lvl:2s}]}},{id:"minecraft:totem_of_undying",Count:1b}],ArmorItems:[{},{},{id:"minecraft:diamond_chestplate",Count:1b,tag:{Enchantments:[{id:"minecraft:projectile_protection",lvl:6s}]}},{id:"minecraft:player_head",Count:1b,tag:{SkullOwner:{Id:[I;-985886238,1087324391,-1397117811,-848955565],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMxNmVhZmE1YTgzMWI2YTRiOWRlNDNiMDA2NDkwNDJmNGZhOGYwYWU2MjY1YWMyNTE1YWQxZGJkYzE1MTc1MyJ9fX0="}]}}}}],ArmorDropChances:[-327.670F,-327.670F,-327.670F,-327.670F],Attributes:[{Name:generic.follow_range,Base:40},{Name:generic.movement_speed,Base:0.7}]}

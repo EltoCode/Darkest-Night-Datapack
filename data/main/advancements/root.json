@@ -1,0 +1,18 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:jack_o_lantern"
+		},
+		"title": "Halloween Darkest Night",
+		"frame": "challenge",
+		"description": ["",{"text":"A Custom Survival Gamemode!\n","color":"gold"},{"text":"Survive in the Light!","color":"yellow"}],
+		"background": "minecraft:textures/block/gilded_blackstone.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

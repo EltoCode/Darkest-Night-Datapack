@@ -1,0 +1,5 @@
+#DESC: Summons BeeWitched
+#
+#
+
+summon bee ~ ~ ~ {CustomNameVisible:1b,CannotEnterHiveTicks:9999999,AngerTime:99999999,Passengers:[{id:"minecraft:witch",ArmorItems:[{},{},{id:"minecraft:chainmail_chestplate",Count:1b,tag:{Enchantments:[{id:"minecraft:projectile_protection",lvl:15s}]}},{}],ArmorDropChances:[0.085F,0.085F,-327.670F,0.085F],Attributes:[{Name:generic.max_health,Base:20},{Name:generic.follow_range,Base:30},{Name:generic.knockback_resistance,Base:1.0},{Name:generic.movement_speed,Base:1},{Name:generic.armor,Base:2}]}],CustomName:'{"text":"BeeWitched","italic":true}',ArmorItems:[{},{},{id:"minecraft:chainmail_chestplate",Count:1b,tag:{Enchantments:[{id:"minecraft:projectile_protection",lvl:15s}]}},{}],ArmorDropChances:[0.085F,0.085F,-327.670F,0.085F],ActiveEffects:[{Id:1b,Amplifier:5b,Duration:99999999}],Attributes:[{Name:generic.max_health,Base:20},{Name:generic.follow_range,Base:30},{Name:generic.knockback_resistance,Base:1.0},{Name:generic.armor,Base:25}]}

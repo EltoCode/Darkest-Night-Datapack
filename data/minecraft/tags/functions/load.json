@@ -1,0 +1,7 @@
+{
+	"values": [
+		"hlwn:load",
+		"hlwn:tick",
+		"hlwn:second"
+	]
+}

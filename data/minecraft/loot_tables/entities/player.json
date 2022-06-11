@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": {
+                "text": "§e§lOrb of Light Essence"
+              }
+            },
+			{
+			   "function": "minecraft:set_lore",
+			   "entity": "this",
+			   "lore": [
+			   		[
+			   		{"text":"§6§oThe last remaining strands of §e"}
+			   		],
+			   		[
+			   		{"selector":"@s"},
+			   		{"text":"§e§o's Light Essence "}
+			   		],
+			   		[
+			   		{"text":"§6§ohave condensed into this Orb."}
+			   		],
+			   		[
+			   		{"text":"§6§oChoose what you do with it wisely."}
+			   		]
+			   	]
+			},
+			{
+				"function": "minecraft:set_nbt",
+				"tag":"{isEsOrb:1b}"
+			}
+          ]
+        }
+      ]
+    }
+  ]
+}

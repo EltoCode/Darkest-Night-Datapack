@@ -1,0 +1,5 @@
+#DESC: Summons Elite Spectre
+#
+#
+
+summon vindicator ~ ~ ~ {CustomNameVisible:1b,Team:"hlwn_dark_team",Tags:["isDark"],Passengers:[{id:"minecraft:evoker",CustomNameVisible:1b,Team:"hlwn_dark_team",DeathLootTable:"minecraft:vindicator",Tags:["isDark"],Passengers:[{id:"minecraft:pillager",CustomNameVisible:1b,Team:"hlwn_dark_team",Tags:["isDark"],CustomName:'{"text":"Pillager Totem","color":"dark_red","italic":true}',HandItems:[{id:"minecraft:crossbow",Count:1b,tag:{Enchantments:[{id:"minecraft:multishot",lvl:1s},{id:"minecraft:quick_charge",lvl:3s}]}},{}]}],CustomName:'{"text":"Pillager Totem","color":"dark_red","italic":true}'}],CustomName:'{"text":"Pillager Totem","color":"dark_red","italic":true}',HandItems:[{id:"minecraft:iron_axe",Count:1b,tag:{Enchantments:[{id:"minecraft:sharpness",lvl:2s},{id:"minecraft:knockback",lvl:2s}]}},{}],Attributes:[{Name:generic.follow_range,Base:30}]}

@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:jack_o_lantern"
+		},
+		"title": "Halloween Event",
+		"description": ["",{"text":"Sp00py Time","color":"black"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "main:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
